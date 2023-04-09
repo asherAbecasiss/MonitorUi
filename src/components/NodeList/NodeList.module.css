@@ -1,0 +1,29 @@
+.tablestriped {
+    font-size: 10px;
+    font-family: Arial;
+    box-shadow: #d6b1b1;
+}
+
+.tablestriped>thead {
+    background-color: rgb(255, 54, 54);
+}
+
+/* .tablestriped>tbody>tr:nth-child(odd)>td,
+.tablestriped>tbody>tr:nth-child(odd)>th {
+    background-color: rgb(69, 214, 219);
+    
+    
+} */
+.tablestriped>tbody>tr:hover td,
+.tablestriped>tbody>tr:hover th {
+    background-color: #a0a0a0;
+
+
+}
+
+.text1 {
+
+    color: rgb(255, 255, 255);
+    font-family: arial;
+    font-size: 12px;
+}
